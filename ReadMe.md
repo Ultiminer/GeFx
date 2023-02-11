@@ -5,4 +5,4 @@ the impression sadly occured, that there has been (or is) a lot of elitism regar
 3. A lot of graphics libraries lack modern c++ support, crucial functionality, and a motivated consumer base - Why can not I draw a circle in SDL2?
 
 DISCLAIMER: I am always looking forward to improving my code and am therefore open for any kind of constructive criticism or help.
-When you read my code and see a mistake, then PLEASE bring my attention to it - while talking like a normal human being and not a condescending asshole 
+When you read my code and see a mistake, then PLEASE bring my attention to it
