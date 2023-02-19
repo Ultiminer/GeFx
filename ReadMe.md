@@ -1,5 +1,4 @@
-I created GeFx out of a hobby of mine and sort of desperation seeing the current state of c++'s graphic support. By reading a lot of stackoverflow comments and reviews,
-the impression sadly occured, that there has been (or is) a lot of elitism and that is dumb for various reason:
+I created GeFx out of a hobby of mine and sort of desperation seeing the current state of c++'s graphic support. With the following realizations in mind: 
 1. This language is mostly used (or at least motivated) in the context of graphic design and game-programming
 2. Everyone new to the language should be enabled to train general use cases immediatley, without having to talk to the GPU directly
 3. A lot of graphics libraries lack modern support, crucial functionality, and a motivated base of contributors - Why can not I draw a circle in SDL2?
